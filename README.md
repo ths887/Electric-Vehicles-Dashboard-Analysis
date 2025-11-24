@@ -26,7 +26,7 @@ Below is a snapshot of the interactive Tableau dashboard created for Electric Ve
 
 Below is a snapshot of the interactive Power BI dashboard created for Hospital Emergency Dashbaord 👇  
 
-![Hospital Emergency Dashboard Preview](https://github.com/ths887/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png))
+![Hospital Emergency Dashboard Preview](https://github.com/ths887/Electric-Vehicles-Dashboard-Analysis/blob/main/Electric%20Vehicle%20Dashboard%20Image.png)
 
 ## 📊 Key Metrics
 
