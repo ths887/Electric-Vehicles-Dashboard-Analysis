@@ -18,6 +18,16 @@ It helps users explore how EV adoption varies by **model year, state, make, mode
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive Tableau dashboard created for Electric Vehicle Dashboard Analysis 👇  
+
+![Electric Vehicles Dashboard Preview](## 🖼️ Dashboard Preview
+
+Below is a snapshot of the interactive Power BI dashboard created for Hospital Emergency Dashbaord 👇  
+
+![Hospital Emergency Dashboard Preview](https://github.com/ths887/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png))
+
 ## 📊 Key Metrics
 
 The KPI cards at the top of the dashboard summarize:
